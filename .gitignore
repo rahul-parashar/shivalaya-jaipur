@@ -1,0 +1,12 @@
+.modgit/
+app/etc/local.xml.additional
+app/etc/local.xml.template
+app/etc/local.xml
+app/.htaccess
+media/catalog/product/cache/
+RELEASE_NOTES.txt
+var/
+.htaccess
+.idea/
+magmi/
+media/import/
